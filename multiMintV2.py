@@ -100,7 +100,7 @@ def sign_send_wait(w3: Web3, acct: Account, tx: dict, timeout=600):
         raise
 
 # Main - Mint Loop Only
-print(f'Auto SeaDrop MultiMint V2 By ADFMIDN Team')
+print(f'Auto Multi Mint NFT ')
 print(f'')
 def main():
     try:
